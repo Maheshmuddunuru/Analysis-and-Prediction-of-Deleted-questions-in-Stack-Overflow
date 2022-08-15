@@ -82,10 +82,7 @@ pip install vaderSentiment
 python -m nltk.downloader stopwords
 ```
 ## Files to run
-
-The main file to run this project is available here [Model.ipynb](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Model.ipynb) and the dataset required to run the code is available in the Dataset folder [WIFIDATACSV1.csv](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Dataset/WIFIDATAcsv1.csv)
-<br/>
-Datasets Folder-- The dataset used for this project can also be found here along with the original database file from where it originated.
+The collected deleted questions during this study is avaible in the [Google Drive](https://drive.google.com/file/d/1h4eR00gZIGZhmGd5UZKdueArwUQro1b7/view?usp=sharing) for reference. Our Prediction model requires the [deleted feature distribution](https://drive.google.com/file/d/1pT2G0IOFwKq50wdja5LLxMa--81XhQkC/view?usp=sharing) file and the [original feature distribution](https://drive.google.com/file/d/1BA8UG5s33o7Gxe0FCtNpMcaJG5gFNK3j/view?usp=sharing) file in order to be run. 
 
 ## Usage
 
