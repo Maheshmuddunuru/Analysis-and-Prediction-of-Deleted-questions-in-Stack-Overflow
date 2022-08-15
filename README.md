@@ -53,7 +53,7 @@ created. In this study our approach is to collect all numerical and meta feature
 I have used python Language for this project.
 
 ## Packages
-This project requires the following packages.
+This project requires the following packages to run our machine learning model.
 ```bash 
 import pandas as pd
 import numpy as np
