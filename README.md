@@ -46,7 +46,7 @@ questions at the time of question creation. In the first stage, we
 will collect all the questions and the Internet archive that have been deleted from the stack overflow server. As we create a database of deleted 
 questions in the first step, we can then develop a predictive model 
 for predicting the deletion of questions the moment they are 
-created. In this study our approach is to collect all numerical and meta features that can be categorized into: readability, sentimental, content and syntactic from title, body and tags. Following that, we compare the scores and accuracy of different types of machine learning classifiers over Denzil Correa and Ashish Sureka's baseline predictions\cite{b1} and achieved an overall accuracy of 72.5\% and F1 score 72.4\% improving by 9.93\5 and 10.07\% respectively.
+created. In this study our approach is to collect all numerical and meta features that can be categorized into: readability, sentimental, content and syntactic from title, body and tags. Following that, we compare the scores and accuracy of different types of machine learning classifiers over Denzil Correa and Ashish Sureka's baseline [predictions](https://dl.acm.org/doi/10.1145/2566486.2568036) and achieved an overall accuracy of 72.5\% and F1 score 72.4\% improving by 9.93\5 and 10.07\% respectively.
 
 ## Languages Used
 
