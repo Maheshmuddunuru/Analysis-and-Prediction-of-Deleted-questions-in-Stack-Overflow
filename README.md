@@ -85,8 +85,7 @@ python -m nltk.downloader stopwords
 The collected deleted questions during this study is avaible in the [Google Drive](https://drive.google.com/file/d/1h4eR00gZIGZhmGd5UZKdueArwUQro1b7/view?usp=sharing) for reference. Our Prediction model requires the [deleted feature distribution](https://drive.google.com/file/d/1pT2G0IOFwKq50wdja5LLxMa--81XhQkC/view?usp=sharing) file and the [original feature distribution](https://drive.google.com/file/d/1BA8UG5s33o7Gxe0FCtNpMcaJG5gFNK3j/view?usp=sharing) file in order to be run. 
 
 ## Usage
-
-- Open the Google colab or Jupyter notebook.
+- Once the files are Downloaded, Load the files into prediction model [program](https://github.com/Maheshmuddunuru/Analysis-and-Prediction-of-Deleted-questions-in-Stack-Overflow/blob/main/model.py)
 - Load the Model.ipynb file to the notebook.
 - Download the dataset WIFIDATAcsv1.csv file to the notebook and adjust the current path of the dataset in the Model.ipynb file.
 - Following is a screenshot of the dataset
