@@ -93,9 +93,9 @@ The collected deleted questions during this study is avaible in the [Google Driv
    <br/>
 - Make sure all the resources and packages are included and run the code.
 - Upon running the code, you will get output with the accuracy.
-- The following is a snippet of code from the project.
+- The following is a screenshot of output from the project.
    <br/>
- ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/codesnippet.jpg)
+ ![alt text](https://github.com/Maheshmuddunuru/Analysis-and-Prediction-of-Deleted-questions-in-Stack-Overflow/blob/main/images/outputpreview.png)
    <br/>
 
 ## Support
