@@ -53,7 +53,7 @@ created. In this study our approach is to collect all numerical and meta feature
 I have used python Language for this project.
 
 ## Packages
-This project requires the following packages to run our machine learning model.
+This project requires the following packages to run our machine learning [model](https://github.com/Maheshmuddunuru/Analysis-and-Prediction-of-Deleted-questions-in-Stack-Overflow/blob/main/model.py).
 ```bash 
 import pandas as pd
 import numpy as np
