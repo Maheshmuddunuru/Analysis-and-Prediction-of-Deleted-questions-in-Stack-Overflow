@@ -86,8 +86,7 @@ The collected deleted questions during this study is avaible in the [Google Driv
 
 ## Usage
 - Once the files are Downloaded, Load the files into prediction model [program](https://github.com/Maheshmuddunuru/Analysis-and-Prediction-of-Deleted-questions-in-Stack-Overflow/blob/main/model.py)
-- Load the Model.ipynb file to the notebook.
-- Download the dataset WIFIDATAcsv1.csv file to the notebook and adjust the current path of the dataset in the Model.ipynb file.
+- adjust the current path of the dataset in the [program](https://github.com/Maheshmuddunuru/Analysis-and-Prediction-of-Deleted-questions-in-Stack-Overflow/blob/main/model.py) file.
 - Following is a screenshot of the dataset
    <br/>
  ![alt text](https://github.com/Maheshmuddunuru/MITM-Detection-Mechanism-at-client-side-using-Machine-Learning-Algorithms/blob/main/Review%20of%20data.jpg)
