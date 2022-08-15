@@ -21,7 +21,32 @@ This is a README file indicating the use of this repository
 - Analysis-and-Prediction-of-Deleted-questions-in-Stack-Overflow
 
 ## Description
-Man-in-the-Middle attacks are talked about a lot in the technical field of computer security because they are one of the biggest concerns for professionals. MitM (Man in the Middle) attacks occur when an attacker intercepts data in the middle of a conversation by using a technique of interjecting themselves. Aside from attacking the data flow between the endpoints, attackers compromise the integrity and confidentiality of that data, as well. Through communication interception, an adversary can eavesdrop on confidential information and modify message integrity. Additionally, an adversary may intercept, modify, or destroy messages to end communication for one of the parties, thereby constituting a compromise of availability. In order to prevent the man in the middle attacks there are several methods, firewalls and intrusion detection systems, but unfortunately these methods are only applied to the administrative side of operations, i.e., Enterprise WIDS (Wireless Intrusion Detection System). The client system is not equipped to detect, prevent, and control these attacks, making it vulnerable to attack for the attacker. Our goal is to build a quality Intrusion Detection system using Anomaly Detection in Machine Learning that will detect network attacks on a client side basis in order to prevent those attacks from happening.
+In recent years, Community Question Answering websites (CQAs) 
+have grown in popularity as a means of providing and searching 
+for information. CQA systems should leverage the collective 
+intelligence of the entire online community to maximize their 
+effectiveness, which will be impossible without appropriate 
+technology support that facilitates collaboration. Stack Overflow 
+is the largest Community-based Question Answering (CQA) site 
+for software developers with over 17 million active users 22M 
+question and 33M answers\footnote{\url{https://stackoverflow.com/}}. Stack Overflow provides 
+programmers with a forum for asking and answering 
+programming-related questions. The Stack Overflow site has
+explicit and detailed guidelines for posting questions and an active 
+user community that moderates questions. Even with these precise 
+communications and guidelines, questions posted on Stack 
+Overflow can be extremely off topic and of poor quality. Those 
+questions can be deleted at the discretion of moderators and 
+community. These deleted questions negatively impact the user 
+experience and increase maintenance costs. Because of this, it is 
+imperative to analyze and predict deleted questions.
+This study consists of two stages (i) Collect deleted questions in 
+Stack Overflow, (ii) Develop a predictive model for deletion 
+questions at the time of question creation. In the first stage, we 
+will collect all the questions and the Internet archive that have been deleted from the stack overflow server. As we create a database of deleted 
+questions in the first step, we can then develop a predictive model 
+for predicting the deletion of questions the moment they are 
+created. In this study our approach is to collect all numerical and meta features that can be categorized into: readability, sentimental, content and syntactic from title, body and tags. Following that, we compare the scores and accuracy of different types of machine learning classifiers over Denzil Correa and Ashish Sureka's baseline predictions\cite{b1} and achieved an overall accuracy of 72.5\% and F1 score 72.4\% improving by 9.93\5 and 10.07\% respectively.
 
 ## Languages Used
 
