@@ -26,10 +26,10 @@ have grown in popularity as a means of providing and searching
 for information. CQA systems should leverage the collective 
 intelligence of the entire online community to maximize their 
 effectiveness, which will be impossible without appropriate 
-technology support that facilitates collaboration. Stack Overflow 
+technology support that facilitates collaboration. [Stack Overflow](https://stackoverflow.com/) 
 is the largest Community-based Question Answering (CQA) site 
 for software developers with over 17 million active users 22M 
-question and 33M answers\footnote{\url{https://stackoverflow.com/}}. Stack Overflow provides 
+question and 33M answers. Stack Overflow provides 
 programmers with a forum for asking and answering 
 programming-related questions. The Stack Overflow site has
 explicit and detailed guidelines for posting questions and an active 
